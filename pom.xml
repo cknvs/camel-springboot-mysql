@@ -16,7 +16,8 @@
     <!-- Spring Boot default profile in order to use an embedded database -->
     <run.profiles>dev</run.profiles>
     <spring.boot-version>2.5.13</spring.boot-version>
-    <camel.version>2.23.2.fuse-7_11_0-00037-redhat-00001</camel.version>
+    <!-- <camel.version>2.23.2.fuse-7_11_0-00037-redhat-00001</camel.version> -->
+    <camel.version>2.21.0.fuse-770013-redhat-00001</camel.version>
     <mysql.version>8.0.28.redhat-00001</mysql.version>
   </properties>
 
